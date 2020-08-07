@@ -1,6 +1,13 @@
 # Sit-up!
 The personalized AI posture practitioner for everyone
 
+[Run the app](#run-the-app-using-flask--ai-module--ionic)
+
+[AI module](#ai-module)
+
+[Demo](#demo)
+
+[Real Product](#real-product)
 
 
 # Run the app using Flask + AI module + Ionic
@@ -30,8 +37,8 @@ $ ionic serve
 ```
 enjoy the app!
 
-![demo](demo.png)
-![demo1](demo2.png)
+![demo0](demoPic/demo.png)
+![demo2](demoPic/demo2.png)
 
 # AI module
 
@@ -55,9 +62,10 @@ Simple test! go to the subfolder just created and run with webcamera: (for mac u
 For the argument direction, you can choose front, side45 or side90;
 Note when specifying side45, for the purpose of accuracy, please make sure camera is at 45 angle of your front;
 
-# Try the demo vison with only ionic
+# Demo
+Try the demo vison with only ionic
 
-![image-20200807130704237](demo1.png)
+![demo1](demoPic/demo1.png)
 
 ```bash
 $ cd setUpFrontEnd 
@@ -66,3 +74,13 @@ $ ionic serve
 ```
 
 Then go to profile and hit the `demo` button
+
+# Real Product
+![demo3](demoPic/demo3.png)
+![demo4](demoPic/demo4.png)
+![demo5](demoPic/demo5.png)
+![demo6](demoPic/demo6.png)
+
+# Git repo
+
+https://github.com/yAya-yns/Sit-up
