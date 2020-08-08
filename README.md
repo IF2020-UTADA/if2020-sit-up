@@ -1,7 +1,7 @@
 # Sit-up!
 The personalized AI posture practitioner for everyone
 
-[Presentation](presentation/Sit-up_Presentation_V6.pdf)
+[Presentation](presentation/Sit-up_Presentation_V9.pdf)
 
 [Run the app](#run-the-app-using-flask--ai-module--ionic)
 
