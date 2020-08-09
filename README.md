@@ -14,7 +14,7 @@ The personalized AI posture practitioner for everyone
 
 
 # Run the app using Flask + AI module + Ionic
-## requirement 	
+## Requirement 	
 Python version > 3.3
 
 [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
